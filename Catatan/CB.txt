@@ -1,0 +1,10 @@
+begin
+    CBBgn.Items.Clear;
+    QueryBagian.Close;
+    QueryBagian.Open;
+    while not QueryBagian.Eof do
+  begin
+    CBBgn.Items.Add(QuerBagian.FieldByName('nm_bagian').AsString);
+    QueryBagian.Next;
+  end
+  end;

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 20:38:27.000.116,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 20:41:05.000.072,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/07 06:51:30.000.823,=C:\Users\AR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 14:08:53.000.518,=C:\Users\AR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 14:09:41.000.087,C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\LoginPengurus.dfm=C:\Users\AR\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/05 14:09:41.000.087,C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\LoginPengurus.pas=C:\Users\AR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 14:43:20.000.685,C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Project.dproj=C:\Users\AR\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/05 15:25:21.000.181,=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\DModul.pas</Transaction>
+    <Transaction>2023/05/05 15:45:25.000.206,=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Dashboard.pas</Transaction>
+    <Transaction>2023/05/12 16:44:05.000.723,=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Peralatan.pas</Transaction>
+    <Transaction>2023/05/12 16:58:17.000.686,=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Unit4.pas</Transaction>
+    <Transaction>2023/05/12 16:58:44.000.986,C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\merek.dfm=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Unit4.dfm</Transaction>
+    <Transaction>2023/05/12 16:58:44.000.986,C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\merek.pas=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Unit4.pas</Transaction>
+    <Transaction>2023/05/13 11:50:54.000.832,=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Unit5.pas</Transaction>
+    <Transaction>2023/05/13 11:52:19.000.104,C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Unit5.pas=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\bagian.pas</Transaction>
+    <Transaction>2023/05/13 11:52:19.000.104,C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\Unit5.dfm=C:\Data Pelajaran\UNISKA\MatKul\SEMESTER 4\P.Visual 2\2110020078\bagian.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
